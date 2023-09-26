@@ -1,1 +1,1 @@
-
+Javascript POJO exercises
