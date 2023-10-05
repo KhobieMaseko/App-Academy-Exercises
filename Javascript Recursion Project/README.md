@@ -6,4 +6,4 @@ As you complete each problem, use mocha to test your solutions. Make sure you're
 
 > mocha
 
-We know you've got this!
+
